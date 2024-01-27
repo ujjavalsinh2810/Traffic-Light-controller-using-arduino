@@ -1,4 +1,4 @@
-/using arduino to make four lane trafic signal light.
+/Using Arduino to make a lane traffic signal light.
 
 void setup() {
 // configure the output pins
